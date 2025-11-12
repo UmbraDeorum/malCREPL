@@ -301,6 +301,7 @@ install-system-deps:
 		libtcc-dev \
 		libffi-dev \
 		libcurl4-openssl-dev \
+		libreadline-dev \
 		libssl-dev \
 		libzstd-dev \
 		build-essential \
