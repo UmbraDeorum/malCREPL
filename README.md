@@ -109,7 +109,7 @@ make help          # Show all options
 # Supported Argument Types
 * Integers: 42, -10, 100L (long)
 * Floats: 3.14, 2.5f (float), 1.0 (double)
-* Strings: "hello world", "escaped\"string"
+* Strings: "hello world", "escaped\\"string"
 * Characters: 'a', 'Z', '\n'
 
 # Return Type Autodetection
