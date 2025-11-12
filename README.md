@@ -5,7 +5,7 @@ Interactive C REPL with encryption and remote source loading.
 ## Features
 
 - **Interactive C execution** - Call functions dynamically without main()
-- **AES-256 encryption** - Encrypt/decrypt source files
+- **User-key encryption** - Encrypt/decrypt source files
 - **Remote sources** - Download and compile from URLs
 - **In-memory compilation** - Uses TinyCC for instant execution
 - **Autocomplete** - Autocomplete for commands and loaded program functions
